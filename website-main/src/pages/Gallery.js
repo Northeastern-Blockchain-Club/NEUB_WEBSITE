@@ -4,23 +4,7 @@ import "../styles/gallary.css";
 //import Img from "gatsby-plugin-image";
 import Navigation from "../components/Navigation";
 const Gallary = () => {
-  // const data = useStaticQuery(graphql`
-  //   {
-  //     allFile(filter: { extension: { regex: "/(jpg)/" } }) {
-  //       edges {
-  //         node {
-  //           base
-  //           childImageSharp {
-  //             fluid {
-  //               ...GatsbyImageSharpFluid
-  //             }
-  //           }
-  //         }
-  //       }
-  //     }
-  //   }
-  // `);
-
+  
   return (
     <>
       <Navigation></Navigation>
