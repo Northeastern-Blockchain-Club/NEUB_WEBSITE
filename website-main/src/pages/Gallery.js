@@ -23,7 +23,7 @@ const Gallary = () => {
               <Img
                 className="gallery__image"
                 fluid={image.node.childImageSharp.fluid}
-                alt="Hot Ivan Having his Tea in the garden"
+                alt="Images of board members"
               />
             </a>
           </div>
@@ -34,28 +34,28 @@ const Gallary = () => {
             <img
               className="gallery__image"
               src="images/12.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/1.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/1.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/2.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/2.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/3.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/3.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
         </div>
@@ -64,21 +64,21 @@ const Gallary = () => {
             <img
               className="gallery__image"
               src="images/4.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/5.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/5.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/6.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/6.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
         </div>
@@ -87,21 +87,21 @@ const Gallary = () => {
             <img
               className="gallery__image"
               src="images/7.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/8.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/8.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/9.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/9.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
         </div>
@@ -110,14 +110,14 @@ const Gallary = () => {
             <img
               className="gallery__image"
               src="images/10.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
           <a href="images/11.jpg" className="gallery__link">
             <img
               className="gallery__image"
               src="images/11.jpg"
-              alt="Hot Ivan Having his Tea in the garden"
+              alt="Images of board members"
             />
           </a>
         </div>
